@@ -1,0 +1,6 @@
+code/colreg/bg
+code/colreg/labels
+code/colreg/runs/
+__pycache__/
+*.pyc
+release_assets/
